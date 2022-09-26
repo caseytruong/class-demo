@@ -1,2 +1,2 @@
 # class-demo
-class demo res
+This is a demonstrated repository to show how to use git for Stats 21.
